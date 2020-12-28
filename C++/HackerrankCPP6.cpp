@@ -8,7 +8,7 @@ Add `int max_of_four(int a, int b, int c, int d)` here.
 */
 
 int max_of_four(int a, int b, int c, int d){
-    return(((a>b)?a:b)>((c>d)?c:d)?((a>b)?a:b):((c>d)?c:d));
+    return(((a>b)?a:b)>((c>d)?c:d)?((a>b)?a:b):((c>d)?c:d)); 
 }
 
 int main() {
