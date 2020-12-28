@@ -1,3 +1,4 @@
+https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -13,7 +14,7 @@ int main()
     // Write Your Code Here
 
     if(n==1){
-
+ cout<<"one";
     }else if (n==2){
         cout<<"two";
     }
