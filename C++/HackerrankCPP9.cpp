@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/variable-sized-arrays
+//https://www.hackerrank.com/challenges/variable-sized-arrays/problem
 #include <vector>
 #include <iostream>
 #include <algorithm>
