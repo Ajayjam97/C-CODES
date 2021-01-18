@@ -49,5 +49,5 @@ int main()
 
     cout<<"Size of float:"<<sizeof(float)<<setw(40)<<"   Range of float:"<<FLT_MIN<<"-"<<FLT_MAX<<"   Value:"<<f<<endl;
     cout<<"Size of double:"<<sizeof(double)<<setw(40)<<"   Range of unsigned long int:"<<DBL_MIN<<"-"<<DBL_MAX<<"   Value:"<<d<<endl;
- 
+    
 }
