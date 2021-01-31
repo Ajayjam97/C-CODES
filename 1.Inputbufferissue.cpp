@@ -34,5 +34,5 @@ int main()
     cout<<a<<endl;
 
     cout<<"This code did not work as \\n remained in the buffer and was pushed in stdin by cin>>a statement instead of a"<<endl;
-
+    cout<<"Note: cin ignores white spaces and \n but getline doesnot."
 }
