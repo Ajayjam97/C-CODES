@@ -10,8 +10,9 @@ int main(){
     cin>>size;
     int *parr = new int[size];
     int arr[size];
-    //vector<int> v(5,0);
     vector<int> v;
+    //vector<int> v(5,0);
+   
 
     for(int i=0;i<2*size;i++){
     cin>>arr[i];
